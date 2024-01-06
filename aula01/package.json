@@ -1,11 +1,12 @@
 {
-  "name": "aula-01",
+  "name": "aula01",
   "version": "1.0.0",
-  "description": "Primeira aula",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Diego M G Vieira",
+  "keywords": [],
+  "author": "",
   "license": "ISC"
 }
